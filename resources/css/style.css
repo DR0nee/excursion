@@ -3,13 +3,8 @@ body {
   text-align: center;
 }
 
-h1, h2, p {
+h1, h2, {
   color: white;
-}
-
-a {
-  color: Aquamarine;
-  font-size: 16px;
 }
 
 h1 {
@@ -34,4 +29,9 @@ p {
 footer {
   text-align: right;
   color: gray;
+}
+
+.link {
+  color: Aquamarine;
+  font-size: 16px;
 }
